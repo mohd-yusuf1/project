@@ -1,4 +1,5 @@
 # Rock Paper Scissor
 <h2>Description:</h2>
-<p>This game is plays between the user and computer.it's free and offline so you can play it. whenever you want \n Let's beat the computer!!</p>
+<p>This game is plays between the user and computer.it's free and offline so you can play it whenever you want.<br>Let's beat the computer!!</p>
+
 
